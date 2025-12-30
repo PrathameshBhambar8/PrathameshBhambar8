@@ -7,8 +7,7 @@ I enjoy building scalable cloud systems and automating infrastructure to make de
 
 ## 🌟 About Me
 🎓 Bachelor of Technology (B.Tech), Computer Science & Technology  
-🏫 Sandip University, Nashik (CGPA: 8.0)  
-
+🏫 Sandip University, Nashik (CGPA: 7.53)  
 ☁️ Passionate about **Cloud Computing, DevOps & Scalable Architectures**  
 ⚙️ Hands-on experience with **AWS services, CI/CD pipelines & Infrastructure as Code**  
 🐳 Skilled in **Docker, Jenkins, Terraform, Ansible & Automation**  
