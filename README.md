@@ -73,7 +73,7 @@
 ---
 ## 🏆 Highlights & Achievements
 
-- 🎓 B.Tech in Computer Science & Technology (CGPA: 8.0)
+- 🎓 B.Tech in Computer Science & Technology (CGPA: 7.53)
 - ☁️ Hands-on experience with **AWS Cloud & DevOps tools**
 - ⚙️ Built **CI/CD pipelines** using Jenkins & Docker
 - 🏗️ Designed **scalable cloud architectures** using AWS & Terraform
