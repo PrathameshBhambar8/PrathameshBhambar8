@@ -67,15 +67,33 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathameshbhambar&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshbhambar&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=prathameshbhambar&theme=tokyonight)
+
+
+---
+## 🏆 Highlights & Achievements
+
+- 🎓 B.Tech in Computer Science & Technology (CGPA: 8.0)
+- ☁️ Hands-on experience with **AWS Cloud & DevOps tools**
+- ⚙️ Built **CI/CD pipelines** using Jenkins & Docker
+- 🏗️ Designed **scalable cloud architectures** using AWS & Terraform
+- 🔁 Implemented **Disaster Recovery solutions on AWS**
+- 💡 Strong understanding of **automation, monitoring & system reliability**
+  
+---
+## 🤝 Let’s Connect
+
+- ✉️ **Email:** prathameshbhambar@gmail.com  
+- 💼 **LinkedIn:** [Prathamesh Bhambar](https://www.linkedin.com/in/prathamesh-bhambar-65769a288)  
+- 🌐 **Portfolio:** [Visit Website](https://prathameshbhambar-portfolio.netlify.app/)  
+- 📁 **GitHub Projects:** [Explore Here](https://github.com/prathameshbhambar)
+
 
 ---
 
-## 📫 Reach Me Via
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!%20✨&fontSize=24&fontColor=ffffff" />
+</p>
 
-✉️ Email: **prathameshbhambar@gmail.com**  
-💼 LinkedIn: [Prathamesh Bhambar](https://www.linkedin.com/in/prathamesh-bhambar-65769a288)  
-🌐 Portfolio: [Visit Website](https://prathameshbhambar-portfolio.netlify.app/)  
-
----
 
 💡 *“Automating today to build scalable and reliable systems for tomorrow.”*
