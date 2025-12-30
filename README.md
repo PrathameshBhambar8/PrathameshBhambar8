@@ -17,8 +17,7 @@
 ## 🌟 About Me
 
 🎓 **B.Tech in Computer Science & Technology**  
-🏫 Sandip University, Nashik (CGPA: 8.0)  
-
+🏫 Sandip University, Nashik (CGPA: 7.53)  
 ☁️ Passionate about **Cloud Computing, DevOps & Infrastructure Automation**  
 ⚙️ Hands-on experience with **AWS services, CI/CD pipelines & IaC**  
 🐳 Skilled in **Docker, Jenkins, Terraform, Ansible**  
