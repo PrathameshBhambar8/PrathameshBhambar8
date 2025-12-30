@@ -94,7 +94,7 @@
 - ✉️ **Email:** prathameshbhambar@gmail.com  
 - 💼 **LinkedIn:** [Prathamesh Bhambar](https://www.linkedin.com/in/prathamesh-bhambar-65769a288)  
 - 🌐 **Portfolio:** [Visit Website](https://prathameshbhambar-portfolio.netlify.app/)  
-- 📁 **GitHub Projects:** [Explore Here](https://github.com/prathameshbhambar)
+- 📁 **GitHub Projects:** [Explore Here](https://github.com/prathameshbhambar8)
 
 
 ---
