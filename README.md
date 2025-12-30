@@ -25,24 +25,29 @@
 
 ---
 
-## 💻 Tech Stack
+## 🛠 Tech Stack
 
-**☁️ Cloud Platforms**  
-- AWS (EC2, S3, VPC, IAM, Auto Scaling, CloudWatch, Lambda)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-Compute-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-Storage-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-Networking-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-**⚙️ DevOps & Automation**  
-- Docker, Jenkins, Terraform, Ansible, Git, GitHub  
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-black?style=for-the-badge&logo=ansible&logoColor=white)
 
-**💻 Programming & Scripting**  
-- Java, Bash, Shell Scripting  
+![Git](https://img.shields.io/badge/Git-VersionControl-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-CodeHosting-black?style=for-the-badge&logo=github)
 
-**🗄️ Databases**  
-- MySQL, SQL  
+![Java](https://img.shields.io/badge/Java-Programming-red?style=for-the-badge&logo=java)
+![Bash](https://img.shields.io/badge/Bash-Scripting-green?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**📊 Monitoring & Logging**  
-- Grafana, Prometheus  
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+![Grafana](https://img.shields.io/badge/Grafana-Monitoring-orange?style=for-the-badge&logo=grafana)
+![Prometheus](https://img.shields.io/badge/Prometheus-Metrics-orange?style=for-the-badge&logo=prometheus)
+
 
 ## 🚀 Featured Projects
 
