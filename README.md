@@ -33,6 +33,7 @@
 ![VPC](https://img.shields.io/badge/VPC-Networking-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-Automation-black?style=for-the-badge&logo=ansible&logoColor=white)
@@ -47,7 +48,6 @@
 
 ![Grafana](https://img.shields.io/badge/Grafana-Monitoring-orange?style=for-the-badge&logo=grafana)
 ![Prometheus](https://img.shields.io/badge/Prometheus-Metrics-orange?style=for-the-badge&logo=prometheus)
-
 
 ## 🚀 Featured Projects
 
