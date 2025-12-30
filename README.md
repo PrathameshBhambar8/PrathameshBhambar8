@@ -92,7 +92,8 @@
 ## 🤝 Let’s Connect
 
 - ✉️ **Email:** prathameshbhambar@gmail.com  
-- 💼 **LinkedIn:** [Prathamesh Bhambar](https://www.linkedin.com/in/prathamesh-bhambar-65769a288)  
+- 💼 **LinkedIn:** [Prathamesh Bhambar](https://www.linkedin.com/in/prathamesh-bhambar-65769a288)
+- 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1QvNT3XkKTVW4HIWkMIHtQfGAmCBbv4qi/view?usp=sharing) 
 - 🌐 **Portfolio:** [Visit Website](https://prathameshbhambar-portfolio.netlify.app/)  
 - 📁 **GitHub Projects:** [Explore Here](https://github.com/prathameshbhambar8)
 
@@ -103,5 +104,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!%20✨&fontSize=24&fontColor=ffffff" />
 </p>
 
-
-💡 *“Automating today to build scalable and reliable systems for tomorrow.”*
